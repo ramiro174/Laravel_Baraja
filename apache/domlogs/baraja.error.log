@@ -1,0 +1,15 @@
+[Wed Mar 04 13:55:07.164374 2020] [:error] [pid 20416:tid 139809909634816] [client 192.168.50.1:56339] SoftException in Application.cpp:249: File "/home/baraja/public/index.php" is writeable by group
+[Wed Mar 04 13:55:07.164438 2020] [core:error] [pid 20416:tid 139809909634816] [client 192.168.50.1:56339] End of script output before headers: index.php
+[Wed Mar 04 13:57:01.301875 2020] [:error] [pid 20416:tid 139809892849408] [client 192.168.50.1:56370] SoftException in Application.cpp:249: File "/home/baraja/public/index.php" is writeable by group
+[Wed Mar 04 13:57:01.301913 2020] [core:error] [pid 20416:tid 139809892849408] [client 192.168.50.1:56370] End of script output before headers: index.php
+[Wed Mar 04 13:57:02.044605 2020] [:error] [pid 20418:tid 139809783744256] [client 192.168.50.1:56371] SoftException in Application.cpp:249: File "/home/baraja/public/index.php" is writeable by group
+[Wed Mar 04 13:57:02.044641 2020] [core:error] [pid 20418:tid 139809783744256] [client 192.168.50.1:56371] End of script output before headers: index.php
+[Wed Mar 04 13:57:02.269667 2020] [:error] [pid 20418:tid 139809758566144] [client 192.168.50.1:56372] SoftException in Application.cpp:249: File "/home/baraja/public/index.php" is writeable by group
+[Wed Mar 04 13:57:02.269697 2020] [core:error] [pid 20418:tid 139809758566144] [client 192.168.50.1:56372] End of script output before headers: index.php
+[Wed Mar 04 13:57:02.493043 2020] [:error] [pid 20418:tid 139809741780736] [client 192.168.50.1:56373] SoftException in Application.cpp:249: File "/home/baraja/public/index.php" is writeable by group
+[Wed Mar 04 13:57:02.493072 2020] [core:error] [pid 20418:tid 139809741780736] [client 192.168.50.1:56373] End of script output before headers: index.php
+[Wed Mar 04 13:57:28.338387 2020] [core:crit] [pid 20418:tid 139809716602624] (13)Permission denied: [client 192.168.50.1:56400] AH00529: /home/baraja/public/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/home/baraja/public/' is executable
+[Wed Mar 04 13:57:29.501519 2020] [core:crit] [pid 20418:tid 139809909634816] (13)Permission denied: [client 192.168.50.1:56400] AH00529: /home/baraja/public/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/home/baraja/public/' is executable
+[Wed Mar 04 13:57:29.722173 2020] [core:crit] [pid 20418:tid 139809901242112] (13)Permission denied: [client 192.168.50.1:56400] AH00529: /home/baraja/public/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/home/baraja/public/' is executable
+[Wed Mar 04 13:57:41.794068 2020] [:error] [pid 20418:tid 139809766958848] [client 192.168.50.1:56403] SoftException in Application.cpp:249: File "/home/baraja/public/index.php" is writeable by group
+[Wed Mar 04 13:57:41.794104 2020] [core:error] [pid 20418:tid 139809766958848] [client 192.168.50.1:56403] End of script output before headers: index.php
